@@ -12,5 +12,9 @@ h1 {
 }
 
 #char {
-    height: 175px;
+    height: 200px;  
+}
+
+#toAttack {
+    height: 200px;
 }
